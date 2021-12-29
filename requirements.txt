@@ -1,0 +1,8 @@
+pip>=21.2.4
+tracardi-plugin-sdk
+tracardi
+wheel
+twine
+
+google-api-python-client == 2.33.0
+google_auth_oauthlib == 0.4.6

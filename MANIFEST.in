@@ -1,0 +1,2 @@
+recursive-include tracardi_google_sheets_integrator/model *
+recursive-include tracardi_google_sheets_integrator/service *
