@@ -80,7 +80,7 @@ This node does not process input payload.
 # Output
 
 This node return output to client: 
-* if the client got data, it returns sheet and range, 
+* if the client get data, it returns sheet and range, 
 major dimensions and values.
- * if the client got data, it returns spreadsheet id, sheet and range, 
+ * if the client write data, it returns spreadsheet id, sheet and range, 
  number of updated rows, columns and cells
